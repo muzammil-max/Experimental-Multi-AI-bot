@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "*",
+    "axios": "*",
+    "chartjs-node-canvas": "^4.1.6",
+    "cheerio": "*",
+    "discord.js": "*",
+    "dotenv": "*",
+    "env": "^0.0.2",
+    "eventsource": "*",
+    "fs": "*",
+    "mathjs": "*",
+    "matplotlib": "^1.0.0",
+    "node-os-utils": "*",
+    "office-text-extractor": "*",
+    "sharp": "*",
+    "ws": "*",
+    "youtube-transcript": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
